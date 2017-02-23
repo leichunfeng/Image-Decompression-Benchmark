@@ -1,0 +1,44 @@
+PODS:
+  - FLAnimatedImage (1.0.12)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - FLAnimatedImage (from `https://github.com/Flipboard/FLAnimatedImage.git`, commit `06d071f`)
+  - SDWebImage (from `https://github.com/rs/SDWebImage.git`, commit `1e53e6c`)
+  - YYKit (from `https://github.com/ibireme/YYKit.git`, commit `3869686`)
+
+EXTERNAL SOURCES:
+  FLAnimatedImage:
+    :commit: 06d071f
+    :git: https://github.com/Flipboard/FLAnimatedImage.git
+  SDWebImage:
+    :commit: 1e53e6c
+    :git: https://github.com/rs/SDWebImage.git
+  YYKit:
+    :commit: '3869686'
+    :git: https://github.com/ibireme/YYKit.git
+
+CHECKOUT OPTIONS:
+  FLAnimatedImage:
+    :commit: 06d071f
+    :git: https://github.com/Flipboard/FLAnimatedImage.git
+  SDWebImage:
+    :commit: 1e53e6c
+    :git: https://github.com/rs/SDWebImage.git
+  YYKit:
+    :commit: '3869686'
+    :git: https://github.com/ibireme/YYKit.git
+
+SPEC CHECKSUMS:
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: fbc99f48fdc3e2935821999e87ea1a6f5cfffa2f
+
+COCOAPODS: 1.1.1

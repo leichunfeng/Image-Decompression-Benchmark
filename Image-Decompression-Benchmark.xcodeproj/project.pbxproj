@@ -13,6 +13,17 @@
 		240F19441E5DB29400A283EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 240F19421E5DB29400A283EB /* Main.storyboard */; };
 		240F19461E5DB29400A283EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 240F19451E5DB29400A283EB /* Assets.xcassets */; };
 		240F19491E5DB29400A283EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 240F19471E5DB29400A283EB /* LaunchScreen.storyboard */; };
+		240F196F1E5DCA0700A283EB /* 128x96.png in Resources */ = {isa = PBXBuildFile; fileRef = 240F196A1E5DCA0700A283EB /* 128x96.png */; };
+		240F19701E5DCA0700A283EB /* 256x192.png in Resources */ = {isa = PBXBuildFile; fileRef = 240F196B1E5DCA0700A283EB /* 256x192.png */; };
+		240F19711E5DCA0700A283EB /* 512x384.png in Resources */ = {isa = PBXBuildFile; fileRef = 240F196C1E5DCA0700A283EB /* 512x384.png */; };
+		240F19721E5DCA0700A283EB /* 1024x768.png in Resources */ = {isa = PBXBuildFile; fileRef = 240F196D1E5DCA0700A283EB /* 1024x768.png */; };
+		240F19731E5DCA0700A283EB /* 2048x1536.png in Resources */ = {isa = PBXBuildFile; fileRef = 240F196E1E5DCA0700A283EB /* 2048x1536.png */; };
+		240F197F1E5DCB6C00A283EB /* 128x96.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 240F197E1E5DCB6C00A283EB /* 128x96.jpg */; };
+		240F19841E5DCC4100A283EB /* 256x192.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 240F19801E5DCC4100A283EB /* 256x192.jpg */; };
+		240F19851E5DCC4100A283EB /* 512x384.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 240F19811E5DCC4100A283EB /* 512x384.jpg */; };
+		240F19861E5DCC4100A283EB /* 1024x768.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 240F19821E5DCC4100A283EB /* 1024x768.jpg */; };
+		240F19871E5DCC4100A283EB /* 2048x1536.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 240F19831E5DCC4100A283EB /* 2048x1536.jpg */; };
+		564C11B458E25C0CD03FCACA /* libPods-Image-Decompression-Benchmark.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B920A016644A9F85BF80086 /* libPods-Image-Decompression-Benchmark.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +37,19 @@
 		240F19451E5DB29400A283EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		240F19481E5DB29400A283EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		240F194A1E5DB29400A283EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		240F196A1E5DCA0700A283EB /* 128x96.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 128x96.png; sourceTree = "<group>"; };
+		240F196B1E5DCA0700A283EB /* 256x192.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 256x192.png; sourceTree = "<group>"; };
+		240F196C1E5DCA0700A283EB /* 512x384.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 512x384.png; sourceTree = "<group>"; };
+		240F196D1E5DCA0700A283EB /* 1024x768.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1024x768.png; sourceTree = "<group>"; };
+		240F196E1E5DCA0700A283EB /* 2048x1536.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2048x1536.png; sourceTree = "<group>"; };
+		240F197E1E5DCB6C00A283EB /* 128x96.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 128x96.jpg; sourceTree = "<group>"; };
+		240F19801E5DCC4100A283EB /* 256x192.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 256x192.jpg; sourceTree = "<group>"; };
+		240F19811E5DCC4100A283EB /* 512x384.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 512x384.jpg; sourceTree = "<group>"; };
+		240F19821E5DCC4100A283EB /* 1024x768.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1024x768.jpg; sourceTree = "<group>"; };
+		240F19831E5DCC4100A283EB /* 2048x1536.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2048x1536.jpg; sourceTree = "<group>"; };
+		765D963C0A03FCC8C77802EA /* Pods-Image-Decompression-Benchmark.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Image-Decompression-Benchmark.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Image-Decompression-Benchmark/Pods-Image-Decompression-Benchmark.debug.xcconfig"; sourceTree = "<group>"; };
+		8AE8CD0E7B3BA1052B407122 /* Pods-Image-Decompression-Benchmark.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Image-Decompression-Benchmark.release.xcconfig"; path = "Pods/Target Support Files/Pods-Image-Decompression-Benchmark/Pods-Image-Decompression-Benchmark.release.xcconfig"; sourceTree = "<group>"; };
+		9B920A016644A9F85BF80086 /* libPods-Image-Decompression-Benchmark.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Image-Decompression-Benchmark.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +57,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				564C11B458E25C0CD03FCACA /* libPods-Image-Decompression-Benchmark.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -44,6 +69,8 @@
 			children = (
 				240F19381E5DB29300A283EB /* Image-Decompression-Benchmark */,
 				240F19371E5DB29300A283EB /* Products */,
+				B9CB88E7C7248C609FDB1CFD /* Pods */,
+				7690CC2E438646BBC83B2488 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,6 +85,7 @@
 		240F19381E5DB29300A283EB /* Image-Decompression-Benchmark */ = {
 			isa = PBXGroup;
 			children = (
+				240F19501E5DBE3600A283EB /* Images */,
 				240F193C1E5DB29400A283EB /* AppDelegate.h */,
 				240F193D1E5DB29400A283EB /* AppDelegate.m */,
 				240F193F1E5DB29400A283EB /* ViewController.h */,
@@ -79,6 +107,40 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		240F19501E5DBE3600A283EB /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				240F196A1E5DCA0700A283EB /* 128x96.png */,
+				240F197E1E5DCB6C00A283EB /* 128x96.jpg */,
+				240F196B1E5DCA0700A283EB /* 256x192.png */,
+				240F19801E5DCC4100A283EB /* 256x192.jpg */,
+				240F196C1E5DCA0700A283EB /* 512x384.png */,
+				240F19811E5DCC4100A283EB /* 512x384.jpg */,
+				240F196D1E5DCA0700A283EB /* 1024x768.png */,
+				240F19821E5DCC4100A283EB /* 1024x768.jpg */,
+				240F196E1E5DCA0700A283EB /* 2048x1536.png */,
+				240F19831E5DCC4100A283EB /* 2048x1536.jpg */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		7690CC2E438646BBC83B2488 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9B920A016644A9F85BF80086 /* libPods-Image-Decompression-Benchmark.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B9CB88E7C7248C609FDB1CFD /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				765D963C0A03FCC8C77802EA /* Pods-Image-Decompression-Benchmark.debug.xcconfig */,
+				8AE8CD0E7B3BA1052B407122 /* Pods-Image-Decompression-Benchmark.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -86,9 +148,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 240F194D1E5DB29400A283EB /* Build configuration list for PBXNativeTarget "Image-Decompression-Benchmark" */;
 			buildPhases = (
+				8401DBE649D21DDF24022375 /* [CP] Check Pods Manifest.lock */,
 				240F19321E5DB29300A283EB /* Sources */,
 				240F19331E5DB29300A283EB /* Frameworks */,
 				240F19341E5DB29300A283EB /* Resources */,
+				D574FAEDCC3A6CC5E8DC39E5 /* [CP] Embed Pods Frameworks */,
+				1E942E5FB68EE2DDFDA0A37C /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -139,12 +204,70 @@
 			buildActionMask = 2147483647;
 			files = (
 				240F19491E5DB29400A283EB /* LaunchScreen.storyboard in Resources */,
+				240F197F1E5DCB6C00A283EB /* 128x96.jpg in Resources */,
+				240F19851E5DCC4100A283EB /* 512x384.jpg in Resources */,
 				240F19461E5DB29400A283EB /* Assets.xcassets in Resources */,
+				240F19701E5DCA0700A283EB /* 256x192.png in Resources */,
+				240F19711E5DCA0700A283EB /* 512x384.png in Resources */,
+				240F19871E5DCC4100A283EB /* 2048x1536.jpg in Resources */,
 				240F19441E5DB29400A283EB /* Main.storyboard in Resources */,
+				240F19861E5DCC4100A283EB /* 1024x768.jpg in Resources */,
+				240F19731E5DCA0700A283EB /* 2048x1536.png in Resources */,
+				240F19841E5DCC4100A283EB /* 256x192.jpg in Resources */,
+				240F19721E5DCA0700A283EB /* 1024x768.png in Resources */,
+				240F196F1E5DCA0700A283EB /* 128x96.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1E942E5FB68EE2DDFDA0A37C /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Image-Decompression-Benchmark/Pods-Image-Decompression-Benchmark-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8401DBE649D21DDF24022375 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		D574FAEDCC3A6CC5E8DC39E5 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Image-Decompression-Benchmark/Pods-Image-Decompression-Benchmark-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		240F19321E5DB29300A283EB /* Sources */ = {
@@ -269,10 +392,12 @@
 		};
 		240F194E1E5DB29400A283EB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 765D963C0A03FCC8C77802EA /* Pods-Image-Decompression-Benchmark.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = V45CY933KN;
 				INFOPLIST_FILE = "Image-Decompression-Benchmark/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.leichunfeng.Image-Decompression-Benchmark";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -281,10 +406,12 @@
 		};
 		240F194F1E5DB29400A283EB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8AE8CD0E7B3BA1052B407122 /* Pods-Image-Decompression-Benchmark.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = V45CY933KN;
 				INFOPLIST_FILE = "Image-Decompression-Benchmark/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.leichunfeng.Image-Decompression-Benchmark";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -310,6 +437,7 @@
 				240F194F1E5DB29400A283EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
